@@ -1,0 +1,6 @@
+{
+    "name": "xtlab/myapp1",
+    "description": "day la du an PHP",
+    "minimum-stability": "beta",
+    "require": {}
+}
